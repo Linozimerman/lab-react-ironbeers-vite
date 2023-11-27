@@ -1,0 +1,17 @@
+.allbeers-container {
+    display: flex;
+    flex-flow: row;
+    height: 25vh;
+
+}
+
+.allbeers-image-container{
+    width: 30%;
+    margin: 12px;
+
+}
+
+.allbeers-image {
+    margin: 12px;
+    height: 100%;
+}

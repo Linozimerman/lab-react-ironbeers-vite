@@ -1,0 +1,39 @@
+.homepage-container {
+    width: 100%;
+    margin-top:6px;
+}
+
+.homepage-allbeers-container {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.homepage-randombeers-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.homepage-newbeer-container {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+p {
+    margin: 2px;
+    margin-left: 5%;
+    margin-bottom: 16px;
+    color: grey;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: smaller;
+}
+
+.homepage-link{
+    margin-left: 5%;
+    color: black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+
+
